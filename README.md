@@ -1,2 +1,1 @@
-# nyt-mongo-scraper
-New York Times Mongo Scrapper
+A web app that lets users view and save articles from the NY Times, using MongoDB / Mongoose
